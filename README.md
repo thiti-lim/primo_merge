@@ -1,0 +1,1 @@
+Clone and use command 'npm t' to run tests. 
