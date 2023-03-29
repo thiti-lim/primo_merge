@@ -1,8 +1,8 @@
-Clone repository:\
+Clone repository:
 
 git clone https://github.com/thiti-lim/primo_merge.git
 
-To run tests:\
+To run tests:
 
 npm install
 
